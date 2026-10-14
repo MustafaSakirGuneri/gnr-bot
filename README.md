@@ -1,4 +1,4 @@
-# GNR-BOT | E-Ticaret Otomasyon Sistemi
+# GNR-BOT | E-Ticaret Otomasyon Sistemi | E-Commerce Automation Tool
 
 Python, Selenium ve Tkinter kullanilarak gelistirilmis, coklu urun ve ilan yonetimini otomatiklestiren masaustu otomasyon araci.
 
